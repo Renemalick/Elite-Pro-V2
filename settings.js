@@ -21,9 +21,9 @@ global.wm = "ELITE-PRO-V2"
 global.botscript = 'https://github.com/Elite-MD/ELITE-PRO-V2' //script link
 global.packname = "Sticker By"
 global.author = "BORUTO"
-global.creator = "221768850869s.whatsapp.net"
+global.creator = "221755582183s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["221768850869"] // Premium User
+global.premium = ["221755582183"] // Premium User
 global.hituet = 0
 
 //bot sett
